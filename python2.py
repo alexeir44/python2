@@ -25,7 +25,7 @@ for i in range(1, n+1):
      print(factorial, end=' ')
 
 # 3. Задать список из n чисел последовательности (1+1/n)^n 
-# и вывести на экран их сумму 
+# и вывести на экран их сумму.
 
 from msilib import sequence
 
